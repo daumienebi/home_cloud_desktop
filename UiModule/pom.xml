@@ -3,6 +3,6 @@
   <groupId>com.devdaumienebi.uimodule</groupId>
   <artifactId>UiModule</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>UiModule</name>
-  <description>User interface for the app</description>
+  <name>Ui Module</name>
+  <description>User interface module for the app</description>
 </project>
