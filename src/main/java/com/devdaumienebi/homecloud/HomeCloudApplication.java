@@ -9,5 +9,4 @@ public class HomeCloudApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(HomeCloudApplication.class, args);
 	}
-
 }
